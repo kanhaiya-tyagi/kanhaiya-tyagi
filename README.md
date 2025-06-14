@@ -1,4 +1,4 @@
-## Hi there, I'm #Kanhaiya Tyagi 👋
+# Hi there, I'm Kanhaiya Tyagi 👋
 
 🎓 **Computer Science Engineering Student**  
 🌱 Currently learning and building with **Frontend Web Development** and **Native Android (Jetpack Compose, Kotlin)**  
@@ -35,7 +35,7 @@
 
 - I love exploring new tech and frameworks.
 - Always up for collaborating on exciting projects!
-- Coffee and code are my favorite combo ☕
+- Sweets and code are my favorite combo 😉
 
 ---
 
